@@ -21,7 +21,7 @@ A simple Todo App built with Flutter.
 
 ## 📸 App Screenshot
 
-(Add your screenshot here later)
+![App Screenshot](screenshot.png)
 
 ## 👨‍💻 Developer
 
